@@ -22,4 +22,4 @@ Something like evernote
 Single website which posts on all your social media accounts
 Social media website for managing our course wherein students from different batches can interact
 
-#Keep adding ideas to this by sending me  pull request
+#Keep adding ideas to this by sending me pull requests
