@@ -23,3 +23,14 @@ Single website which posts on all your social media accounts
 Social media website for managing our course wherein students from different batches can interact
 
 #Keep adding ideas to this by sending me pull requests
+
+- Social network exclusively for Sports persons - players, coaches, officials, managers etc. wherein players / clubs can connect with each other, schedule / create events, publish videos / pictures, store and view scores and apply / post sports jobs. Example - playerhunter.com
+
+- Marketplace for printers wherein consumers can send in a request to print with artwork and other specifications (e.g. posters in bulk) and printers bid for the order in real time. Consumer gets to decide which printer to go for based on best bid (low price and high turn around time, maybe?).
+
+- A storage service that lets you create more space in your home / office. The service picks up unwanted furniture / appliances that the user may think that won't be used for a few weeks / months etc. Services picks up the material, packs and stores safely for efficient retrieval at a charge. Could involve more of offline work than online.
+
+- A marketplace that connects companies with experienced developers to fix bugs in code. The gap exists wherein non-tech companies or companies with low budgets cannot afford to hire a full time dev. And full time devs often have spare time which could be utilized to review code and earn as well. check out pullrequest.com
+
+
+
