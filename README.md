@@ -33,4 +33,7 @@ Social media website for managing our course wherein students from different bat
 - A marketplace that connects companies with experienced developers to fix bugs in code. The gap exists wherein non-tech companies or companies with low budgets cannot afford to hire a full time dev. And full time devs often have spare time which could be utilized to review code and earn as well. check out pullrequest.com
 
 
+- Most residents don't have time to go to public meetings or digest complicated reports regarding real estate (commercial / social) developments taken up by developers or local urban bodies. Most developers, planners and urban local bodies don’t have the resources to reach a broader and more representative audience online. Developers and urban local bodies are usually perceived in the negative sense, a formal interactive platform can help improve their image and bring value to their developments through feedback received from all stakeholders on the platform. A forum that brings together real estate developers, construction companies, residents, urban planners and municipalities at one platform to communicate around the core value unit – a real estate project can resolve the pain points.
+
+
 
