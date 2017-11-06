@@ -22,6 +22,8 @@ Something like evernote
 Single website which posts on all your social media accounts
 Social media website for managing our course wherein students from different batches can interact
 
+
+
 #Keep adding ideas to this by sending me pull requests
 
 - Social network exclusively for Sports persons - players, coaches, officials, managers etc. wherein players / clubs can connect with each other, schedule / create events, publish videos / pictures, store and view scores and apply / post sports jobs. Example - playerhunter.com
